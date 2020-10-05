@@ -7,6 +7,9 @@ Unity game developed for class Animation 2D 3D in 2018
 
 - Animation done in classe by 2 colegues
 
+Test it here
+https://santanatiago.github.io/H2Orld/
+
 ###### Known Issues
 
 - [ ] Water drop asset missing
