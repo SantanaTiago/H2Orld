@@ -1,5 +1,6 @@
 # H2Orld
-Unity game developed for class Animation 2D 3D in 2018
+Unity game developed for class Animation 2D 3D in 2018.
+The goal was to teach children to save water. The game consists in a sliding bucket to catch the falling water and click in the faucets that appear on sides.
 
 - MainGame made from scratch
 
